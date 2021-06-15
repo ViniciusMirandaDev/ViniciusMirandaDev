@@ -2,7 +2,7 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Vinícius Miranda!</h1><br/>
 
 <div style="display : flex; align-item: center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+  <img src="https://image.freepik.com/fotos-gratis/laptop-de-mesa-preto-com-visor-de-cor-roxo-rosa-claro_37129-939.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
   
   <div align="Justify">
   
