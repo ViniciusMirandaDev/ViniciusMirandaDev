@@ -13,7 +13,7 @@
 </div>
 
 
-> Um pouco mais sobre mim :stuck_out_tongue_winking_eye::v:
+> Um pouco mais sobre mim :smile:
 
 <p align="Justify">
   Posso me considerar uma pessoa carismática, busco sempre ajudar os outros em seus problemas, gosto de passar meu tempo livre ouvindo músicas, dormindo, programando ou conversando com outras pessoas =)
@@ -21,7 +21,7 @@
   Cada dia que passa, eu tento adquirir mais conhecimento tanto técnico, quanto social, pois acredito que em uma equipe de programação, as relações sociais são a principal parte para tudo funcionar! Por fim, espero que aproveite meu repositório, ele sempre está sendo atualizado. Let's code =)
 </p><br/>
 
-> Tecnologias e ferramentas que eu utilizo :technologist:
+> Tecnologias e ferramentas que eu utilizo :monocle_face::
 
 ### :desktop_computer: - Tecnologias
 <p align="left">
@@ -45,3 +45,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="40" height="30"/>
   <img src="https://user-images.githubusercontent.com/50583973/111923726-44855300-8a7f-11eb-9702-1190c153f4f0.png" alt="visual studio code" width="25" height="25"/>
 </p>
+
+### :man_astronaut: - Redes Sociais
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Miranda-0e76a8?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmirandadev/)](https://www.linkedin.com/in/viniciusmirandadev/)<br/> [![Instagram Badge](https://img.shields.io/badge/_viniciusbap-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_viniciusbap/)
+
+### :ticket: - Nota e linguagens utilizadas
+
+<a href="https://github.com/MaduSilva/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ViniciusMirandaDev&show_icons=true" />
+</a>
+<a href="https://github.com/MaduSilva/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMirandaDev" />
+</a>
