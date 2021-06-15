@@ -1,29 +1,29 @@
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Vinícius Miranda!</h1><br/>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Vinícius!</h1><br/>
 
 <div style="display : flex; align-item: center">
   <img src="https://image.freepik.com/fotos-gratis/laptop-de-mesa-preto-com-visor-de-cor-roxo-rosa-claro_37129-939.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
   
   <div align="Justify">
   
-  Well, talking a little about myself ... I´m a development student graduated and studying at the [school Senai of informatics](https://informatica.sp.senai.br/),        where I learned to develop systems, such as creating websites and Api´s, and also to create applications for cell phones.
+  Bem, meu nome completo é Vinícius Miranda Baptista, ainda estou entrando no vasto universo da programação, por isso sou um Dev Junior, formado no [Senai de informática](https://informatica.sp.senai.br/) como Desenvolvedor de sistemas.
   <br/><br/>
-  I got to know this fantastic universe of programming through the [Senai school](https://github.com/senai-desenvolvimento), where they not only taught me how to develop systems, but how to develop myself as a person and as a professional, always instigating me to challenge myself and have a constant evolutionary process day after day. And today, I am a fullstack developer who is always open to new opportunities and challenges!
+  Desse modo, no meu curso me encontrei em algumas áreas, como React, React Native e sistestemas .NET, porém sempre estarei apto à aprender novas linguagens de programação, para que assim eu consiga realizar o sistema da melhor maneira possível. Gosto de desafios tanto individuais quanto em equipe, buscando sempre dar meu máximo desempenho de acordo com as necessidades e desafios do momento.
   </div><hr/>
 </div>
 
 
-> A little more about me :stuck_out_tongue_winking_eye::v:
+> Um pouco mais sobre mim :stuck_out_tongue_winking_eye::v:
 
 <p align="Justify">
-  Who am I behind the camera? Well, I am a very charismatic person who loves to do many things, I am passionate about design :art::computer: (even if not very good), I love creating layouts for websites and applications, and I always like to innovate in each one of them. I am also a music lover, I like to always listen :musical_note: to new things and learn to play new music, after all I am also a musician  	:saxophone: in my spare time (but I still have a lot to study).
+  Posso me considerar uma pessoa carismática, busco sempre ajudar os outros em seus problemas, gosto de passar meu tempo livre ouvindo músicas, dormindo, programando ou conversando com outras pessoas =)
   <br/><br/>
-I love to read books, after all, with each story we embark on and explore a world totally different from reality, and it takes on other characteristics and personalities in our minds, and I love that feeling. I also really enjoy cooking and taking on the role of mini-chef at home :man_cook:(lol). And I also love watching series :tv: with my friends and taking a few moments to play :video_game: with them, after all who knows maybe one day I might not embark on the world of streams  	:movie_camera::smiling_face_with_three_hearts:?
+  Cada dia que passa, eu tento adquirir mais conhecimento tanto técnico, quanto social, pois acredito que em uma equipe de programação, as relações sociais são a principal parte para tudo funcionar! Por fim, espero que aproveite meu repositório, ele sempre está sendo atualizado. Let's code =)
 </p><br/>
 
-> What tools and technologies do I use :technologist:
+> Tecnologias e ferramentas que eu utilizo :technologist:
 
-### :desktop_computer: - techs
+### :desktop_computer: - Tecnologias
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
@@ -37,10 +37,8 @@ I love to read books, after all, with each story we embark on and explore a worl
   <img src="https://user-images.githubusercontent.com/50583973/111923052-03d80a80-8a7c-11eb-8916-e0bc35091931.png" alt="react native" width="25" height="30"/>
 </p>
 
-### :gear: - tools
+### :gear: - Ferramentas
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="25" height="25"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="25" height="25"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="xd" width="25" height="25"/>
   <img src="https://user-images.githubusercontent.com/50583973/111923548-8f529b00-8a7e-11eb-98b0-e8557c62ea05.png" alt="azure" width="75" height="25"/>
   <img src="https://user-images.githubusercontent.com/50583973/111923608-bf9a3980-8a7e-11eb-9550-8c8ba5457d66.png" alt="figma" width="60" height="25"/>
