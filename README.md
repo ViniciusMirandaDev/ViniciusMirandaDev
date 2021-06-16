@@ -52,9 +52,9 @@
 
 ### :ticket: - Nota e linguagens utilizadas
 
-<a href="https://github.com/MaduSilva/github-readme-stats">
+<a href="https://github.com/ViniciusMirandaDev/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ViniciusMirandaDev&show_icons=true" />
 </a>
-<a href="https://github.com/MaduSilva/convoychat">
+<a href="https://github.com/ViniciusMirandaDev/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMirandaDev" />
 </a>
