@@ -48,7 +48,7 @@
 
 ### :man_astronaut: - Redes Sociais
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Miranda-0e76a8?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmirandadev/)](https://www.linkedin.com/in/viniciusmirandadev/)<br/> [![Instagram Badge](https://img.shields.io/badge/_viniciusbap-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vmbdeveloper/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Miranda-0e76a8?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmirandadev/)](https://www.linkedin.com/in/viniciusmirandadev/)<br/> [![Instagram Badge](https://img.shields.io/badge/vmbdeveloper-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vmbdeveloper/)
 
 ### :ticket: - Nota e linguagens utilizadas
 
