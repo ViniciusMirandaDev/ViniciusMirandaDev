@@ -2,7 +2,7 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Vinícius!</h1><br/>
 
 <div style="display : flex; align-item: center">
-  <img src="https://image.freepik.com/fotos-gratis/laptop-de-mesa-preto-com-visor-de-cor-roxo-rosa-claro_37129-939.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80" height="250px" min-width="200px" max-width="200px" width="400px" align="right" alt="Computador">
   
   <div align="Justify">
   
@@ -30,7 +30,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="30" height="30"/>![image](https://user-images.githubusercontent.com/61596739/151355541-229d4ce3-631c-454c-ba13-4045ac0d8f2f.jpeg)
+
   <img src="https://user-images.githubusercontent.com/50583973/111923290-36cece00-8a7d-11eb-9ad7-2d614e3af27f.png" alt="sql server" width="35" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot net" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
