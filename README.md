@@ -6,7 +6,7 @@
   
   <div align="Justify">
   
-  Bem, meu nome completo é Vinícius Miranda Baptista, ainda estou entrando no vasto universo da programação, por isso sou um Dev Junior, formado no [Senai de informática](https://informatica.sp.senai.br/) como Desenvolvedor de sistemas.
+  Bem, meu nome completo é Vinícius Miranda Baptista, formado no [Senai de informática](https://informatica.sp.senai.br/) como Desenvolvedor de sistemas e tenho um pouco mais de 2 anos na área de TI.
   <br/><br/>
   Desse modo, no meu curso me encontrei em algumas áreas, como React, React Native e sistemas .NET, porém sempre estarei apto à aprender novas linguagens de programação, para que assim eu consiga realizar o sistema da melhor maneira possível. Gosto de desafios tanto individuais quanto em equipe, buscando sempre dar meu máximo desempenho de acordo com as necessidades e desafios do momento.
   </div><hr/>
