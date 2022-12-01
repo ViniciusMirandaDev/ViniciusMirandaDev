@@ -51,11 +51,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Miranda-0e76a8?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmirandadev/)](https://www.linkedin.com/in/viniciusmirandadev/)<br/> [![Instagram Badge](https://img.shields.io/badge/vmbdeveloper-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vmbdeveloper/)
 
-### :ticket: - Nota e linguagens utilizadas
 
-<a href="https://github.com/ViniciusMirandaDev/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ViniciusMirandaDev&show_icons=true" />
-</a>
-<a href="https://github.com/ViniciusMirandaDev/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMirandaDev" />
-</a>
