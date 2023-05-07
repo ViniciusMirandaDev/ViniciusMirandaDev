@@ -1,54 +1,70 @@
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Vinícius!</h1><br/>
+![](https://komarev.com/ghpvc/?username=ViniciusMirandaDev&color=006bed)
 
-<div style="display : flex; align-item: center">
-  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80" height="250px" min-width="200px" max-width="200px" width="400px" align="right" alt="Computador">
-  
-  <div align="Justify">
-  
-  Bem, meu nome completo é Vinícius Miranda Baptista, formado no [Senai de informática](https://informatica.sp.senai.br/) como Desenvolvedor de sistemas e tenho um pouco mais de 3 anos na área de TI.
-  <br/><br/>
-  Desse modo, no meu curso me encontrei em algumas áreas, como React, React Native e sistemas .NET, porém sempre estarei apto à aprender novas linguagens de programação, para que assim eu consiga realizar o sistema da melhor maneira possível. Gosto de desafios tanto individuais quanto em equipe, buscando sempre dar meu máximo desempenho de acordo com as necessidades e desafios do momento.
-  </div><hr/>
-</div>
+<h3> 👨: &nbsp;About</h3>
 
+- 🕐 &nbsp; 3 years coding.
+- 🤔 &nbsp; Learning new techs and teaching computers to learn tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Analysis and systems development at <a href="https://www.sp.senai.br/">SENAI</a>.
+- 💼 &nbsp; .NET Full-Stack Developer at <a href="https://certacon.com.br/">Certacon</a>
+- 🌱 &nbsp; Learning more about DevOps, Azure and Microservices.
 
-> Um pouco mais sobre mim :smile:
+<h3> :rocket: &nbsp;Skills </h3>
 
-<p align="Justify">
-  Posso me considerar uma pessoa carismática, busco sempre ajudar os outros em seus problemas, gosto de passar meu tempo livre ouvindo músicas, dormindo, programando ou conversando com outras pessoas =)
-  <br/><br/>
-  Cada dia que passa, eu tento adquirir mais conhecimento tanto técnico, quanto social, pois acredito que em uma equipe de programação, as relações sociais são a principal parte para tudo funcionar! Por fim, espero que aproveite meu repositório, ele sempre está sendo atualizado. Let's code =)
-</p><br/>
+**App & Data**
 
-> Tecnologias e ferramentas que eu utilizo :monocle_face::
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### :desktop_computer: - Tecnologias
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="30" height="30"/>
+**Utils**
 
-  <img src="https://user-images.githubusercontent.com/50583973/111923290-36cece00-8a7d-11eb-9ad7-2d614e3af27f.png" alt="sql server" width="35" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot net" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-  <img src="https://user-images.githubusercontent.com/50583973/111923052-03d80a80-8a7c-11eb-8916-e0bc35091931.png" alt="react native" width="25" height="30"/>
-</p>
+  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### :gear: - Ferramentas
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="xd" width="25" height="25"/>
-  <img src="https://user-images.githubusercontent.com/50583973/111923548-8f529b00-8a7e-11eb-98b0-e8557c62ea05.png" alt="azure" width="75" height="25"/>
-  <img src="https://user-images.githubusercontent.com/50583973/111923608-bf9a3980-8a7e-11eb-9550-8c8ba5457d66.png" alt="figma" width="60" height="25"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="40" height="30"/>
-  <img src="https://user-images.githubusercontent.com/50583973/111923726-44855300-8a7f-11eb-9702-1190c153f4f0.png" alt="visual studio code" width="25" height="25"/>
-</p>
+**DevOps**
 
-### :man_astronaut: - Redes Sociais
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Miranda-0e76a8?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmirandadev/)](https://www.linkedin.com/in/viniciusmirandadev/)<br/> [![Instagram Badge](https://img.shields.io/badge/vmbdeveloper-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vmbdeveloper/)
+**Dev Tools**
 
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
+<br/>
+
+<a href="https://github.com/ViniciusMirandaDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMirandaDev&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Find me: </h3> 
+
+[![Linkedin: Vinícius Miranda](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmirandadev)](https://www.linkedin.com/in/viniciusmirandadev)
+[![Medium: Vinícius Miranda](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@vmbdeveloper)](https://medium.com/@vmbdeveloper)
