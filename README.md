@@ -3,7 +3,7 @@
 
 <h3> 👨: &nbsp;About</h3>
 
-- 🕐 &nbsp; 3 years coding.
+- 🕐 &nbsp; 4 years coding.
 - 🤔 &nbsp; Learning new techs and teaching computers to learn tecnologies.
 - 🎓 &nbsp; Analysis and systems development at <a href="https://www.sp.senai.br/">SENAI</a>.
 - 💼 &nbsp; .NET Full-Stack Developer at <a href="https://certacon.com.br/">Certacon</a>
